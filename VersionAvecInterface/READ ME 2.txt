@@ -1,0 +1,4 @@
+READ ME 
+Cette version de la carte se déroule avec une interface graphique
+voici la seule chose a taper dans le terminal, évidemment, à adapter 
+py "C:\Users\douvi\OneDrive\Desktop\gta4.py"
