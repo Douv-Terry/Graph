@@ -1,0 +1,56 @@
+READ ME
+Ce graph à pour thème le jeu vidéo GTA V (Grand Theft Auto V)
+Il s'agit d'un système GPS pour se déplacer dans la ville de LOS SANTOS (ville du jeu)
+Je n'ai malheureusement pas pu placer les villes aux bons endroits car le studio de développement du jeux n'a pas fournis les coordonnés des villes.
+
+
+Pour utiliser le graph, tous se passe dans le terminal.
+Pour commencer, taper la commande suivante dans votre terminal (à adapter pour correspondre à l'endroit ou le fichier est stocker:) py "C:\Users\douvi\OneDrive\Desktop\gta.py"
+Si cela prend du temps, c'est normal ( pas plus de 10s)
+
+Une fois le temps d'attente terminer, ces lignes apparaissent:
+
+
+
+
+==================================================
+🎮 GPS INTERACTIF SAN ANDREAS
+==================================================
+
+--- MENU ---
+Entrez le DÉPART (ou 'liste' pour voir les lieux, 'carte' pour voir tout, 'q' pour quitter)
+📍 DÉPART :
+
+
+
+
+
+comme on peut le voir, on peut avoir accès a la liste de tout les point possibles avec la commande liste
+on peut également voir la carte avec la commande carte
+et quitter avec q
+une vois le départ marquer dans 
+📍 DÉPART : 
+la ligne 🎯 ARRIVÉE :
+apparait
+
+
+
+
+DONC, prenont pour exemple le trajet : Banham Canyon jusqu'à Lago Zancudo
+Voici ce qui se passe donc dans le terminal:
+--- MENU ---
+Entrez le DÉPART (ou 'liste' pour voir les lieux, 'carte' pour voir tout, 'q' pour quitter)
+📍 DÉPART : Banham Canyon
+🎯 ARRIVÉE : Lago Zancudo
+
+🛣️  ITINÉRAIRE TROUVÉ
+📏 Distance totale : 8.0 km
+  1. Banham Canyon
+  2. Tongva Hills
+  3. Tongva Valley
+  4. Great Ocean Highway North
+  5. Lago Zancudo
+
+
+Pour le reste, tout se passe sur le graphe qui va aparaitre 
+
